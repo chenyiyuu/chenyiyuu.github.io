@@ -2,11 +2,11 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+[//]: # (subtitle: Fintech researcher, Industrial Bank Co.,Ltd.)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: chenyiyu.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -16,7 +16,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to Yiyu Chen (陈亦余) ‘s homepage!
+<h1 class="post-title">
+
+<b>Yiyu Chen 陈亦余</b>
+
+</h1>
+
+Fintech Researcher
+
+Industrial Bank Co.,Ltd
+
+Email: yiyuchen1998@gmail.com
+
+[Google Scholar](https://scholar.google.com/citations?user=HsRMOBUAAAAJ)
 
 I am currently a fintech management trainee at Industrial Bank Co.,Ltd. 
 I received my Master degree (2020-2023) from School of Integrated Circuits and Electronics, Beijing Institute of Technology,
